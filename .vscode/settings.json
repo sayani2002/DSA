@@ -1,3 +1,12 @@
 {
-    "cph.general.onceMaintainerMessage": false
+    "cph.general.onceMaintainerMessage": false,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./ARRAYS",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
 }
